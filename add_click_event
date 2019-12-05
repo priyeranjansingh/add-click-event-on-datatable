@@ -1,0 +1,5 @@
+/*
+* this will add on click event on daatabale using class name or id*/
+$(document).on("click", "class_name/id", function(){
+		   // your code here
+		});
